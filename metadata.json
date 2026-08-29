@@ -1,0 +1,6 @@
+{
+  "name": "Career Guidance Assistant",
+  "description": "An AI-powered career guidance platform and intelligent chatbot helping students with personalized career planning, industry insights, skill gap analysis, and tailored roadmaps.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
